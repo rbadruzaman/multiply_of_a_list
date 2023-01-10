@@ -1,3 +1,3 @@
 # multiply_of_a_list
 
-/h halo
+h1 halo
